@@ -5,6 +5,7 @@
 
 	<title>Home</title>
 	<link rel="stylesheet" href="./Home_files/tic.css">
+ <meta name="google-site-verification" content="dq0_n6xUf9XgnjNIsmugNH2kRjcCkLbeddKEld0bCOw" />
 </head>
 
 <body>
